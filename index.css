@@ -1,0 +1,30 @@
+/* ↓じん↓ */
+
+.welcome {
+    position: relative;
+    display: flex;
+    width: 100%;
+    padding: 60px;
+}
+
+.welcome_bg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: -1;
+}
+
+.welcome_bg img {
+    width: 100%;
+}
+
+.welcome_content {
+    width: 40%;
+}
+
+.welcome_img img {
+    width: 100%;
+}
+
+/* ↑じん↑ */
